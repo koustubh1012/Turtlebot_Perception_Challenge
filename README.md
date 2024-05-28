@@ -2,6 +2,8 @@
 
 ## ENPM 673: Perception for Autonomus Robots
 
+https://github.com/koustubh1012/Turtlebot_Challenge/assets/36124868/812de28c-4061-46d9-9daf-f11e4411663e
+
 ## Instructions for running perception turtlebot3 challenge project
 
 ## Setup
@@ -71,4 +73,7 @@ ros2 run group8 turtlebot_controller
 
 # Output Video
 
-https://github.com/koustubh1012/Turtlebot_Challenge/assets/36124868/812de28c-4061-46d9-9daf-f11e4411663e
+The output video for bot the simulation and turtlebot3 are:
+
+Gazebo: https://youtu.be/Z291n3jhRug?si=41fKyE_fGXLNK_He
+Turtlebot3 Waffle: https://www.youtube.com/watch?v=Nw_EMlEFSSs&t=4s
