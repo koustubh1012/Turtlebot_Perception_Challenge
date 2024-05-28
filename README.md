@@ -76,4 +76,5 @@ ros2 run group8 turtlebot_controller
 The output video for bot the simulation and turtlebot3 are:
 
 Gazebo: https://youtu.be/Z291n3jhRug?si=41fKyE_fGXLNK_He
+
 Turtlebot3 Waffle: https://www.youtube.com/watch?v=Nw_EMlEFSSs&t=4s
