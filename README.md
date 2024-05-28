@@ -70,4 +70,11 @@ ros2 run group8 turtlebot_controller
 
 # Output Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nw_EMlEFSSs?si=KCxmY_V-__tC2JWf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div align="center">
+  <a href="https://youtu.be/Nw_EMlEFSSs">
+    <img src="https://img.youtube.com/vi/Nw_EMlEFSSs/hqdefault.jpg" alt="Watch the video" style="width:100%;max-width:600px;">
+  </a>
+  <br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Nw_EMlEFSSs" frameborder="0" allowfullscreen></iframe>
+</div>
+
