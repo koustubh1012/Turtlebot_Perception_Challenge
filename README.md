@@ -35,6 +35,7 @@ source install/setup.bash
 
 ## Launch the Project
 
+
 SSH into the turtlebot3 and run the following two commands
 
 ```sh
@@ -70,11 +71,4 @@ ros2 run group8 turtlebot_controller
 
 # Output Video
 
-<div align="center">
-  <a href="https://youtu.be/Nw_EMlEFSSs">
-    <img src="https://img.youtube.com/vi/Nw_EMlEFSSs/hqdefault.jpg" alt="Watch the video" style="width:100%;max-width:600px;">
-  </a>
-  <br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Nw_EMlEFSSs" frameborder="0" allowfullscreen></iframe>
-</div>
-
+https://github.com/koustubh1012/Turtlebot_Challenge/assets/36124868/812de28c-4061-46d9-9daf-f11e4411663e
