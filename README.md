@@ -67,3 +67,7 @@ Finally run the master node
 ```sh
 ros2 run group8 turtlebot_controller
 ```
+
+# Output Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nw_EMlEFSSs?si=KCxmY_V-__tC2JWf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
